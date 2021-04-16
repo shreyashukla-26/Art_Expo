@@ -1,4 +1,4 @@
-# Art_Expo
+# Art Expo
 
 ## Background
 
