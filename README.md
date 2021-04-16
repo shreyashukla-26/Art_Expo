@@ -1,6 +1,6 @@
 # Art_Expo
 
-## Background:
+## Background
 
 In recent times, due to covid there has been lesser exposure to the outside world, environment and people. One of the impacts of this has been the rise in the number of mental health cases all around the world. These range from persistent depressive disorders to clinical depression. Medical studies have proved that people suffering from this usually interact less with people outside, have reduced appetite and energy levels, and can be apprehensive about opening up to people about their feelings. It can lead to a wide range of behavioural and physical symptoms.
 
@@ -18,7 +18,7 @@ But, platforms that encourage this are usually limited to social media platforms
 
 Thus a platform free of judgement, providing anonymity if desired and is easy to use for all people of varying mental health issues to buy/sell or view art is needed.
 
-## Our platform aims to provide:
+## Our platform aims to provide
 
 Different UI accents and tones depending on the person’s mood as it has been proven by color theory that it has a positive impact on health.
 Easy navigation through the use of visual cues and universally understood symbols, minimized use of plain text.
