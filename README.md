@@ -28,9 +28,14 @@ But, platforms that encourage this are usually limited to social media platforms
 
 Thus a platform free of judgement, providing anonymity if desired and is easy to use for all people of varying mental health issues to buy/sell or view art is needed.
 
+
 ## Our platform aims to provide
 
 1. Different UI accents and tones depending on the person’s mood as it has been proven by color theory that it has a positive impact on health.
 2. Easy navigation through the use of visual cues and universally understood symbols, minimized use of plain text.
 3. Navigating through the website is made more fun and interactive with the use of animations and user-friendly fonts that is pleasing to the eye.
 4. Text to speech functionality to assist people with learning disabilities.
+
+## Link to access all the Deliverables 
+
+https://drive.google.com/drive/folders/1feTdBVoFiLFel_CKP1HxQaUZjphi8B59
