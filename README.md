@@ -4,6 +4,12 @@
 
 https://underline-bf9c97.webflow.io/
 
+
+## Team Name 
+
+HCI_0124_1023_1307_1549
+
+
 ## Background
 
 In recent times, due to covid there has been lesser exposure to the outside world, environment and people. One of the impacts of this has been the rise in the number of mental health cases all around the world. These range from persistent depressive disorders to clinical depression. Medical studies have proved that people suffering from this usually interact less with people outside, have reduced appetite and energy levels, and can be apprehensive about opening up to people about their feelings. It can lead to a wide range of behavioural and physical symptoms.
