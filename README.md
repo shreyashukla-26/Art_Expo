@@ -5,10 +5,10 @@
 In recent times, due to covid there has been lesser exposure to the outside world, environment and people. One of the impacts of this has been the rise in the number of mental health cases all around the world. These range from persistent depressive disorders to clinical depression. Medical studies have proved that people suffering from this usually interact less with people outside, have reduced appetite and energy levels, and can be apprehensive about opening up to people about their feelings. It can lead to a wide range of behavioural and physical symptoms.
 
 In many such cases, different forms of therapy can be helpful in getting over depressive episodes, or can help the patient cope with their illness. These include but are not limited to:
-Art therapy
-Talk therapy
-Music therapy
-Animal assisted therapy, etc.
+1. Art therapy
+2. Talk therapy
+3. Music therapy
+4. Animal assisted therapy, etc.
 
 Art, either creating it or viewing others' art, is used to help people explore emotions, develop self-awareness, cope with stress, boost self-esteem, and work on social skills. 
 
@@ -20,7 +20,7 @@ Thus a platform free of judgement, providing anonymity if desired and is easy to
 
 ## Our platform aims to provide
 
-Different UI accents and tones depending on the person’s mood as it has been proven by color theory that it has a positive impact on health.
-Easy navigation through the use of visual cues and universally understood symbols, minimized use of plain text.
-Navigating through the website is made more fun and interactive with the use of animations and user-friendly fonts that is pleasing to the eye.
-Text to speech functionality to assist people with learning disabilities.
+1. Different UI accents and tones depending on the person’s mood as it has been proven by color theory that it has a positive impact on health.
+2. Easy navigation through the use of visual cues and universally understood symbols, minimized use of plain text.
+3. Navigating through the website is made more fun and interactive with the use of animations and user-friendly fonts that is pleasing to the eye.
+4. Text to speech functionality to assist people with learning disabilities.
